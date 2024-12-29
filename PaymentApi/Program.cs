@@ -27,6 +27,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
  
 
+
     //var posts = app.MapGroup("/api/posts");
     //posts.MapGet("/getById/{id}", GetPostById)
     //    .WithName("GetPostById");
